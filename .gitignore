@@ -1,0 +1,25 @@
+# deps / builds
+node_modules/
+.next/
+dist/
+build/
+.turbo/
+coverage/
+# python scraper venv + browser cache
+scraper/.venv/
+__pycache__/
+*.pyc
+# generated deal-feed data (pnpm ingest) — fixtures fallback ships instead
+packages/shared/src/deals-live.json
+# generated price-log demo store (pnpm log-prices, no Supabase configured)
+services/adapters/data/
+# env / secrets
+.env
+.env.*
+!.env.example
+# os / editor
+.DS_Store
+*.log
+
+# TS incremental build cache
+*.tsbuildinfo

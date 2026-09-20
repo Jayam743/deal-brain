@@ -1,0 +1,26 @@
+{
+  "from": 0,
+  "to": 1,
+  "currentPage": 1,
+  "total": 1,
+  "totalPages": 1,
+  "queryTime": "0.019",
+  "totalTime": "0.041",
+  "partial": false,
+  "canonicalUrl": "https://api.bestbuy.com/v1/products(sku=6567938)",
+  "products": [
+    {
+      "sku": 6567938,
+      "name": "NVIDIA - GeForce RTX 4070 SUPER 12GB GDDR6X Graphics Card",
+      "manufacturer": "NVIDIA",
+      "salePrice": 549.99,
+      "regularPrice": 599.99,
+      "onSale": true,
+      "url": "https://www.bestbuy.com/site/nvidia-geforce-rtx-4070-super/6567938.p",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6567/6567938_sd.jpg",
+      "upc": "812674024451",
+      "class": "Graphics Cards",
+      "department": "Computer Components"
+    }
+  ]
+}

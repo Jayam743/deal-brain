@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dealnews="https://www.dealnews.com/ns/rss/1.0.htm" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>DealNews - DealNews: Best Daily Deals, Discounts &amp; Sales</title>
+  <link>https://www.dealnews.com</link>
+  <description>Sample feed snippet saved for the ingest normalizer test.</description>
+  <language>en-us</language>
+  <item>
+   <title>Samsung 990 Pro 2TB NVMe SSD for $129.00 + free shipping</title>
+   <link>https://www.dealnews.com/Samsung-990-Pro-2-TB-NVMe-SSD-for-129-00-free-shipping/21999999.html?iref=rss</link>
+   <description>&lt;p&gt;Best Buy offers the Samsung 990 Pro 2TB NVMe SSD for $129. That's a 14% off savings.&lt;/p&gt;</description>
+   <guid>https://www.dealnews.com/21999999.html?iref=rss</guid>
+   <pubDate>Tue, 15 Sep 2026 21:19:07 -0400</pubDate>
+   <dealnews:retailer>Best Buy</dealnews:retailer>
+   <dealnews:dealType>deal</dealnews:dealType>
+   <dealnews:category>Storage</dealnews:category>
+   <dealnews:staffPick>false</dealnews:staffPick>
+   <dealnews:price currency="USD">129.00</dealnews:price>
+  </item>
+  <item>
+   <title>Mystery Gift Card Bundle at ShopSomewhere</title>
+   <link>https://www.dealnews.com/Mystery-Gift-Card-Bundle-at-ShopSomewhere/22000001.html?iref=rss</link>
+   <description>&lt;p&gt;ShopSomewhere has a mystery bundle deal, price varies by cart.&lt;/p&gt;</description>
+   <guid>https://www.dealnews.com/22000001.html?iref=rss</guid>
+   <pubDate>Tue, 15 Sep 2026 18:00:00 -0400</pubDate>
+   <dealnews:retailer>ShopSomewhere</dealnews:retailer>
+   <dealnews:dealType>deal</dealnews:dealType>
+   <dealnews:category>Misc</dealnews:category>
+   <dealnews:staffPick>false</dealnews:staffPick>
+  </item>
+  <item>
+   <title>123456</title>
+   <link>https://www.dealnews.com/22000002.html?iref=rss</link>
+   <description>7890</description>
+   <guid>https://www.dealnews.com/22000002.html?iref=rss</guid>
+   <pubDate>Tue, 15 Sep 2026 17:00:00 -0400</pubDate>
+   <dealnews:retailer>ShopSomewhere</dealnews:retailer>
+  </item>
+ </channel>
+</rss>

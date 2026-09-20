@@ -1,0 +1,28 @@
+{
+  "canonicalUrl": "https://api.bestbuy.com/v1/products/6567938/stores.json",
+  "currentPage": 1,
+  "total": 2,
+  "totalPages": 1,
+  "queryTime": "0.031",
+  "totalTime": "0.045",
+  "stores": [
+    {
+      "storeId": 1029,
+      "name": "Framingham",
+      "address": "400 Cochituate Rd",
+      "city": "Framingham",
+      "region": "MA",
+      "fullPostalCode": "01701",
+      "distance": 4.52
+    },
+    {
+      "storeId": 611,
+      "name": "Boston-Downtown Crossing",
+      "address": "350 Washington St",
+      "city": "Boston",
+      "region": "MA",
+      "fullPostalCode": "02108",
+      "distance": 9.87
+    }
+  ]
+}

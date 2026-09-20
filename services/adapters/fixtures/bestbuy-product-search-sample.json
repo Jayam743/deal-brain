@@ -1,0 +1,39 @@
+{
+  "from": 0,
+  "to": 2,
+  "currentPage": 1,
+  "total": 2,
+  "totalPages": 1,
+  "queryTime": "0.024",
+  "totalTime": "0.052",
+  "partial": false,
+  "canonicalUrl": "https://api.bestbuy.com/v1/products(search=rtx 4070)",
+  "products": [
+    {
+      "sku": 6567938,
+      "name": "NVIDIA - GeForce RTX 4070 SUPER 12GB GDDR6X Graphics Card",
+      "manufacturer": "NVIDIA",
+      "salePrice": 549.99,
+      "regularPrice": 599.99,
+      "onSale": true,
+      "url": "https://www.bestbuy.com/site/nvidia-geforce-rtx-4070-super/6567938.p",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6567/6567938_sd.jpg",
+      "upc": "812674024451",
+      "class": "Graphics Cards",
+      "department": "Computer Components"
+    },
+    {
+      "sku": 6524729,
+      "name": "NVIDIA - GeForce RTX 4070 Ti SUPER 16GB GDDR6X Graphics Card",
+      "manufacturer": "NVIDIA",
+      "salePrice": 799.99,
+      "regularPrice": 799.99,
+      "onSale": false,
+      "url": "https://www.bestbuy.com/site/nvidia-geforce-rtx-4070-ti-super/6524729.p",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6524/6524729_sd.jpg",
+      "upc": null,
+      "class": "Graphics Cards",
+      "department": "Computer Components"
+    }
+  ]
+}

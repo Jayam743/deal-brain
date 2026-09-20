@@ -1,0 +1,24 @@
+{
+  "name": "@coupon-app/extension",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc --noEmit && node scripts/build.mjs",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@coupon-app/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "@types/chrome": "^0.0.280",
+    "esbuild": "^0.24.0",
+    "eslint": "^9.12.0",
+    "happy-dom": "^15.11.7",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.8.0",
+    "vitest": "^2.1.2"
+  }
+}

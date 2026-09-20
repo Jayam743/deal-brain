@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Deal Brain",
+  "version": "0.1.0",
+  "description": "Checkout layer for Deal Brain — ranked coupon codes, no hidden tabs, no affiliate-cookie overwrites.",
+  "action": {
+    "default_title": "Deal Brain"
+  },
+  "background": {
+    "service_worker": "dist/background.js"
+  },
+  "permissions": ["storage"],
+  "host_permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.bestbuy.com/cart*",
+        "https://www.bestbuy.com/checkout/*",
+        "https://www.walmart.com/cart*",
+        "https://www.walmart.com/checkout/*"
+      ],
+      "js": ["dist/content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
